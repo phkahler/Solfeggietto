@@ -14,3 +14,5 @@ an ability to limit how high up the neck you want to go per-string and alternate
 The output file was done in standard tuning with everything shifted down one half step. This helps to fit
 all of the notes an a 22 fret guitar while also making the lowest note an open low E, which you may need since it
 directly follows fret 20 on the B string... Yes this piece is a wild ride ;-)
+
+[Wikipedia link](https://en.wikipedia.org/wiki/Solfeggietto)
